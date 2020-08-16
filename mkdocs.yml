@@ -1,0 +1,28 @@
+site_name: 'CoderDojo Twin Cities Thunkable Resources'
+nav:
+  - Home: index.md
+  - Intoduction: thunkable.md
+  - Contents: contacts.md
+
+repo_name: 'Thunkable'
+repo_url: 'https://github.com/CoderDojoTC/thunkable'
+edit_uri: 'blob/master/docs'
+copyright: 'All content is licensed under Creative Commons Sharealike non-commercial with attribution'
+theme:
+  name: material
+  logo: img/coderdojo-logo.jpg
+  favicon: img/favicon.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
