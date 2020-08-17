@@ -1,7 +1,8 @@
-site_name: 'CoderDojo Twin Cities Thunkable Resources'
+site_name: 'CoderDojo TC Thunkable Resources'
 nav:
   - Home: index.md
-  - Intoduction: thunkable.md
+  - Intoduction: intro.md
+  - Contribute: contribute.md
   - Contents: contacts.md
 
 repo_name: 'Thunkable'
