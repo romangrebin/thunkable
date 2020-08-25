@@ -2,6 +2,7 @@ site_name: 'CoderDojo TC Thunkable Resources'
 nav:
   - Home: index.md
   - Intoduction: intro.md
+  - Technovation: technovation.md
   - Contribute: contribute.md
   - Contents: contacts.md
 
