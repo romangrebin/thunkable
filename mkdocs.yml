@@ -13,7 +13,7 @@ copyright: 'All content is licensed under Creative Commons Sharealike non-commer
 theme:
   name: material
   logo: img/coderdojo-logo.jpg
-  favicon: img/favicon.png
+  favicon: img/favicon.ico
   palette:
     primary: '#642580'
     accent: '#41BAC1'
