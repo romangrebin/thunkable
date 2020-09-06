@@ -25,6 +25,6 @@ jobs:
           pip install pyspellchecker
           pip install markdown
           wget https://raw.githubusercontent.com/romangrebin/markdown-spellchecker/master/markdown_spellchecker.py
-      - name: Run the spellchecker
+      - name: Run spellchecker
         run: |
           python markdown_spellchecker.py -p docs
