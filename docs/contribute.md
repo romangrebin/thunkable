@@ -1,4 +1,4 @@
- # Contributing to the CoderDojo Twin Cities Thunkable Python Resources
+# Contributing to the CoderDojo Twin Cities Thunkable Python Resources
 
  We always accept standard git pull requests.
 

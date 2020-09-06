@@ -2,8 +2,9 @@ site_name: 'CoderDojo TC Thunkable Resources'
 nav:
   - Home: index.md
   - Intoduction: intro.md
+  - Technovation: technovation.md
   - Contribute: contribute.md
-  - Contents: contacts.md
+  - Contacts: contacts.md
 
 repo_name: 'Thunkable'
 repo_url: 'https://github.com/CoderDojoTC/thunkable'
@@ -12,7 +13,7 @@ copyright: 'All content is licensed under Creative Commons Sharealike non-commer
 theme:
   name: material
   logo: img/coderdojo-logo.jpg
-  favicon: img/favicon.png
+  favicon: img/favicon.ico
   palette:
     primary: '#642580'
     accent: '#41BAC1'
