@@ -26,5 +26,4 @@ jobs:
           wget https://raw.githubusercontent.com/romangrebin/markdown-spellchecker/master/markdown_spellchecker.py
       - name: Run spellchecker
         run: |
-          git pull
           python markdown_spellchecker.py -p docs
